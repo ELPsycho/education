@@ -200,7 +200,8 @@ h3 {
 }
 
 section {
-  margin:50px auto;
+  margin: 0 auto;
+    padding-top: 70px;
 }
 
 .about-style {
